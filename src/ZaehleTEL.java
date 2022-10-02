@@ -32,5 +32,6 @@ public class ZaehleTEL {
 		System.out.println("Der Buchstabe ’t’ kommt " + tAnzahl + " mal vor.");
 		System.out.println("Der Buchstabe ’e’ kommt " + eAnzahl + " mal vor.");
 		System.out.println("Der Buchstabe ’l’ kommt " + lAnzahl + " mal vor.");
+		System.out.println("git integration worked.");
 	}
 }
